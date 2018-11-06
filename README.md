@@ -1,4 +1,4 @@
-# ScrapeProject
+# WebScrapingProject
 This was a group project for the graduate UNH Analytics department. The group members were Ben Weckerle, Devan Miller, and Johnny Cagno. 
 
 The project requirements were to scrape data from the internet and to apply a some sort of machine learning model or other data science techniques. 
